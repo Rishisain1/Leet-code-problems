@@ -14,7 +14,8 @@ public:
         for(int k=0;k<n;k++){
             for(int i=0;i<n;i++){
                 for(int j=0;j<n;j++){
-                    if(i==j)continue;
+                    // below condition is important as if src and dst is same than we mark as infinity
+                    // if(i==j)continue;
                     if(dist[i][k]<=distanceThreshold&&dist[k][j]<=distanceThreshold){
                         dist[i][j]=min(dist[i][j],dist[i][k]+dist[k][j]);
                     }
@@ -25,6 +26,7 @@ public:
         for(int i=0;i<n;i++){
             int temp=0;
             for(int j=0;j<n;j++){
+                if(i==j)continue;
                 if(dist[i][j]<=distanceThreshold)temp++;
             }
             if(count>=temp){
