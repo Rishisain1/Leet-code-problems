@@ -50,8 +50,13 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Rishisain1/Leet-code-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sorting
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Rishisain1/Leet-code-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
