@@ -85,24 +85,24 @@ public:
                             ds.unionBySize(u, v);
                         
                     }
-                    if (i - 1 >= 0&&grid[i-1][j]) {
-                        int v = ((i - 1) * n) + j;
+                    // if (i - 1 >= 0&&grid[i-1][j]) {
+                    //     int v = ((i - 1) * n) + j;
                         
-                            ds.unionBySize(u, v);
+                    //         ds.unionBySize(u, v);
                         
-                    }
+                    // }
                     if (j + 1 < n&& grid[i][j+1] ) {
                         int v = ((i)*n) + j + 1;
                         
                             ds.unionBySize(u, v);
                         
                     }
-                    if (j - 1 >= 0&&grid[i][j-1]) {
-                        int v = ((i)*n) + j - 1;
+                    // if (j - 1 >= 0&&grid[i][j-1]) {
+                    //     int v = ((i)*n) + j - 1;
                         
-                            ds.unionBySize(u, v);
+                    //         ds.unionBySize(u, v);
                         
-                    }
+                    // }
                     ans = max(ans, ds.sizes[ds.findpar(u)]);
                 }
             }
