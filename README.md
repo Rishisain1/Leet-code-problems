@@ -51,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Rishisain1/Leet-code-problems/tree/master/0051-n-queens) |
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Rishisain1/Leet-code-problems/tree/master/0827-making-a-large-island) |
 | [2751-robot-collisions](https://github.com/Rishisain1/Leet-code-problems/tree/master/2751-robot-collisions) |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0827-making-a-large-island](https://github.com/Rishisain1/Leet-code-problems/tree/master/0827-making-a-large-island) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Rishisain1/Leet-code-problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
