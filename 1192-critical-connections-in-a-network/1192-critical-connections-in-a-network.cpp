@@ -10,14 +10,15 @@
                 if(!visited[u]){
                     solve(list,visited,tin,low,ans,u,curr,count);
                     low[curr]=min(low[u],low[curr]);
+                    if(tin[curr]<low[u]){
+                    ans.push_back({curr,u});
+                }
                 }
                 else if(u!=pi){
                     low[curr]=min(low[curr],tin[u]);
                 }
 
-                if(tin[curr]<low[u]){
-                    ans.push_back({curr,u});
-                }
+                
             }
         }
 
