@@ -1,39 +1,36 @@
 class Solution {
 public:
+
+// it is similar problem to the subsequence difference the only thing is they ask it in another manner
 // recursion
-// int solve(vector<int>& nums, int target,int sum,int i){
+// int solve(vector<int>& nums,int target,int &total,int first,int i){
 //     if(i>=nums.size()){
-//         if(sum==target)return 1;
+//         if(target==(2*first)-total)return 1;
 //         return 0;
 //     }
-//     return solve(nums,target,sum,i+1)+solve(nums,target,sum-(nums[i]*2),i+1);
+//     return solve(nums,target,total,first+nums[i],i+1)+solve(nums,target,total,first,i+1);
 // }
 
-
-int msolve(vector<int>& nums, int target,int sum,int i,vector<vector<int>> &dp){
+// memoization
+int solve(vector<int>& nums,int target,int &total,int first,int i,vector<vector<int>> &dp){
     if(i>=nums.size()){
-        if(sum==target)return 1;
+        if(target==(2*first)-total)return 1;
         return 0;
     }
-    if(sum<0) return 0;// additional condition only for memoization because it may give error
-    if(dp[i][sum]!=-1){return dp[i][sum];}
-
-    return dp[i][sum] = msolve(nums,target,sum,i+1,dp)+msolve(nums,target,sum-(nums[i]*2),i+1,dp);
+    if(dp[i][first]!=-1){
+        return dp[i][first];
+    }
+    return dp[i][first]=solve(nums,target,total,first+nums[i],i+1,dp)+solve(nums,target,total,first,i+1,dp);
 }
 
     int findTargetSumWays(vector<int>& nums, int target) {
-        int sum=0;
-        for(auto i: nums){
-            sum+=i;
-
+        int total=0;
+        for(auto i:nums){
+            total+=i;
         }
-        // normal recursion
-        // return solve(nums,target,sum,0);
-
-        //memoization
+        // return solve(nums,target,total,0,0);//recuresion approach
         int n=nums.size();
-        vector<vector<int>> dp(n,vector<int>(sum+1,-1));
-        return msolve(nums,target,sum,0,dp);
-
+        vector<vector<int>> dp(n,vector<int>(total+1,-1));
+        return solve(nums,target,total,0,0,dp);
     }
 };
