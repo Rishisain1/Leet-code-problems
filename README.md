@@ -13,6 +13,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0518-coin-change-ii) |
+| [1092-shortest-common-supersequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rishisain1/Leet-code-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph Theory
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
+| [1092-shortest-common-supersequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1143-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rishisain1/Leet-code-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
