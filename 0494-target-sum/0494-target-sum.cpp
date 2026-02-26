@@ -28,9 +28,27 @@ int solve(vector<int>& nums,int target,int &total,int first,int i,vector<vector<
         for(auto i:nums){
             total+=i;
         }
+
         // return solve(nums,target,total,0,0);//recuresion approach
         int n=nums.size();
-        vector<vector<int>> dp(n,vector<int>(total+1,-1));
-        return solve(nums,target,total,0,0,dp);
+        // vector<vector<int>> dp(n,vector<int>(total+1,-1));
+        // return solve(nums,target,total,0,0,dp);
+        if(total<target||(target+total)%2||target+total<0)return 0;
+
+        vector<vector<int>> dp(n+1,vector<int>(total+1,0));
+        int subsetsum=(target+total)/2;
+        dp[0][0]=1;
+
+        for(int i=1;i<=n;i++){
+            for(int j=0;j<=subsetsum;j++){
+                    
+                    dp[i][j]=dp[i-1][j];
+                    if(j>=nums[i-1]){
+                        dp[i][j]+=dp[i-1][j-nums[i-1]];
+                    }
+                
+            }
+        }
+        return dp[n][subsetsum];
     }
 };
