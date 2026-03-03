@@ -91,6 +91,7 @@
 | [1143-longest-common-subsequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1143-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rishisain1/Leet-code-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rishisain1/Leet-code-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Sorting
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rishisain1/Leet-code-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2751-robot-collisions](https://github.com/Rishisain1/Leet-code-problems/tree/master/2751-robot-collisions) |
 ## Bit Manipulation
 |  |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishisain1/Leet-code-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
