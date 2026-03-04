@@ -74,6 +74,7 @@
 | [0827-making-a-large-island](https://github.com/Rishisain1/Leet-code-problems/tree/master/0827-making-a-large-island) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rishisain1/Leet-code-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishisain1/Leet-code-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Rishisain1/Leet-code-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2751-robot-collisions](https://github.com/Rishisain1/Leet-code-problems/tree/master/2751-robot-collisions) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/3011-find-if-array-can-be-sorted) |
 ## Hash Table
@@ -127,6 +128,7 @@
 | ------- |
 | [0827-making-a-large-island](https://github.com/Rishisain1/Leet-code-problems/tree/master/0827-making-a-large-island) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishisain1/Leet-code-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Rishisain1/Leet-code-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Backtracking
 |  |
 | ------- |
