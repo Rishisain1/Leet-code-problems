@@ -115,6 +115,7 @@
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rishisain1/Leet-code-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2751-robot-collisions](https://github.com/Rishisain1/Leet-code-problems/tree/master/2751-robot-collisions) |
 ## Bit Manipulation
 |  |
@@ -122,6 +123,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rishisain1/Leet-code-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rishisain1/Leet-code-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/3011-find-if-array-can-be-sorted) |
 ## Matrix
 |  |
@@ -169,6 +171,7 @@
 ## Math
 |  |
 | ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
