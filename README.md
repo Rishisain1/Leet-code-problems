@@ -17,6 +17,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rishisain1/Leet-code-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishisain1/Leet-code-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Graph Theory
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishisain1/Leet-code-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rishisain1/Leet-code-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Sorting
@@ -187,4 +189,8 @@
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishisain1/Leet-code-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
