@@ -76,6 +76,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rishisain1/Leet-code-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishisain1/Leet-code-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rishisain1/Leet-code-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1980-find-unique-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1980-find-unique-binary-string) |
 | [2751-robot-collisions](https://github.com/Rishisain1/Leet-code-problems/tree/master/2751-robot-collisions) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/3011-find-if-array-can-be-sorted) |
 ## Hash Table
@@ -84,6 +85,7 @@
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rishisain1/Leet-code-problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishisain1/Leet-code-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rishisain1/Leet-code-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Sorting
@@ -139,6 +142,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/Rishisain1/Leet-code-problems/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0494-target-sum) |
+| [1980-find-unique-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1980-find-unique-binary-string) |
 ## Binary Search
 |  |
 | ------- |
