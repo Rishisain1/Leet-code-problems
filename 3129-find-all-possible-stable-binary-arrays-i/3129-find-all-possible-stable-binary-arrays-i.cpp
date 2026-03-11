@@ -1,44 +1,34 @@
-
 class Solution {
 public:
-
-int solve(int zero,int one,int limit,int last,int occ,vector<vector<vector<vector<int>>>> &dp){
-
+const int mod=1e9+7;
+int solve(int zero,int one,int limit,int last,vector<vector<vector<int>>> &dp){
     if(zero==0&&one==0){
         return 1;
     }
-    if(dp[zero][one][last][occ]!=-1)return dp[zero][one][last][occ];
-    int mod=1e9+7;
-    if(last==0){
-        int z=0;
-        int o=0;
-        if(occ<limit&&zero>0){
-            z=solve(zero-1,one,limit,0,occ+1,dp);
+    if(last!=-1&&dp[zero][one][last]!=-1)return dp[zero][one][last];
+    long long ans=0;
+    if(last!=0){
+        for(int i=1;i<=limit;i++){
+            if(zero>=i){
+                ans+=solve(zero-i,one,limit,0,dp)%mod;
+            }
         }
-        if(one>0)
-        o=solve(zero,one-1,limit,1,1,dp);
-        return dp[zero][one][last][occ]=(z+o)%mod;
     }
-    if(last==1){
-        int z=0;
-        int o=0;
-        if(occ<limit&&one>0){
-            o=solve(zero,one-1,limit,1,occ+1,dp);
+    if(last!=1){
+        for(int i=1;i<=limit;i++){
+            if(one>=i){
+                ans+=solve(zero,one-i,limit,1,dp)%mod;
+            }
         }
-        if(zero>0){
-            z=solve(zero-1,one,limit,0,1,dp);
-        }
-        return dp[zero][one][last][occ]= (z+o)%mod;
     }
-    return 0;
+    if(last==-1){
+        return ans%mod;
+    }
+    return dp[zero][one][last]=ans%mod;
 }
 
-
     int numberOfStableArrays(int zero, int one, int limit) {
-        vector<vector<vector<vector<int>>>> dp(zero+1,vector<vector<vector<int>>>(one+1,vector<vector<int>>(2,vector<int>(limit+1,-1))));
-        int mod=1e9+7;
-        return (solve(zero-1,one,limit,0,1,dp)+solve(zero,one-1,limit,1,1,dp))%mod;
-        
+        vector<vector<vector<int>>> dp(zero+1,vector<vector<int>>(one+1,vector<int>(2,-1)));
+        return solve(zero,one,limit,-1,dp);
     }
-    
 };
