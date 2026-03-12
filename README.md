@@ -29,6 +29,7 @@
 | [1192-critical-connections-in-a-network](https://github.com/Rishisain1/Leet-code-problems/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rishisain1/Leet-code-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rishisain1/Leet-code-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rishisain1/Leet-code-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0827-making-a-large-island](https://github.com/Rishisain1/Leet-code-problems/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rishisain1/Leet-code-problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rishisain1/Leet-code-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rishisain1/Leet-code-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Array
 |  |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishisain1/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rishisain1/Leet-code-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,6 +197,7 @@
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishisain1/Leet-code-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rishisain1/Leet-code-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Recursion
 |  |
 | ------- |
@@ -202,4 +206,8 @@
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishisain1/Leet-code-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rishisain1/Leet-code-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
