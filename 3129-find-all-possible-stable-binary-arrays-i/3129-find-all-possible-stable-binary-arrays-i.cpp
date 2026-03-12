@@ -8,14 +8,17 @@ int solve(int zero,int one,int limit,int last,vector<vector<vector<int>>> &dp){
     if(last!=-1&&dp[zero][one][last]!=-1)return dp[zero][one][last];
     long long ans=0;
     if(last!=0){
-        for(int i=1;i<=limit;i++){
+        // we can write zero only this time min of zero or limit if we have only three zero and limit is 2 then we only insert 2 and is number of zero is 1 then wha ever the limit we only write the 1 zero 
+        int n=min(limit,zero);
+        for(int i=1;i<=n;i++){
             if(zero>=i){
                 ans+=solve(zero-i,one,limit,0,dp)%mod;
             }
         }
     }
     if(last!=1){
-        for(int i=1;i<=limit;i++){
+        int n=min(limit ,one );
+        for(int i=1;i<=n;i++){
             if(one>=i){
                 ans+=solve(zero,one-i,limit,1,dp)%mod;
             }
