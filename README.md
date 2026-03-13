@@ -83,6 +83,7 @@
 | [1980-find-unique-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1980-find-unique-binary-string) |
 | [2751-robot-collisions](https://github.com/Rishisain1/Leet-code-problems/tree/master/2751-robot-collisions) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/3011-find-if-array-can-be-sorted) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rishisain1/Leet-code-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishisain1/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rishisain1/Leet-code-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rishisain1/Leet-code-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rishisain1/Leet-code-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
@@ -197,6 +200,7 @@
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishisain1/Leet-code-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rishisain1/Leet-code-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rishisain1/Leet-code-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Recursion
 |  |
@@ -210,4 +214,8 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rishisain1/Leet-code-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rishisain1/Leet-code-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
