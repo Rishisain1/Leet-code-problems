@@ -26,6 +26,9 @@ public:
                 if(sum<=k){
                     count++;
                 }
+                else{
+                    break;
+                }
             }
         }
         return count;
