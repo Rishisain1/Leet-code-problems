@@ -16,6 +16,7 @@
 | [0494-target-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0518-coin-change-ii) |
+| [0887-super-egg-drop](https://github.com/Rishisain1/Leet-code-problems/tree/master/0887-super-egg-drop) |
 | [1092-shortest-common-supersequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rishisain1/Leet-code-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishisain1/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0887-super-egg-drop](https://github.com/Rishisain1/Leet-code-problems/tree/master/0887-super-egg-drop) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rishisain1/Leet-code-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rishisain1/Leet-code-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
@@ -221,6 +223,7 @@
 ## Math
 |  |
 | ------- |
+| [0887-super-egg-drop](https://github.com/Rishisain1/Leet-code-problems/tree/master/0887-super-egg-drop) |
 | [1622-fancy-sequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rishisain1/Leet-code-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
