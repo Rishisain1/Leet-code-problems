@@ -16,10 +16,10 @@ int solve(TreeNode* root,int& ans){
     if(root==NULL){
         return 0;
     }
-    int left=max(0,solve(root->left,ans));
+    int left=max(0,solve(root->left,ans));//if we not want to select left that's why we find max of 0,left
     int right=max(0,solve(root->right,ans));
     ans=max(ans,root->val+left+right);
-    return max(0,max(left,right))+root->val;
+    return max(left,right)+root->val;
 }
 
     int maxPathSum(TreeNode* root) {
