@@ -12,21 +12,21 @@
 class Solution {
 public:
 
-int solve(TreeNode* root,int &ans,unordered_map<TreeNode*,int> &dp){
+int solve(TreeNode* root,int &ans){
     if(root==NULL){
         return 0;
     }
-    if(dp.count(root))return dp[root];
-    int left=solve(root->left,ans,dp);
-    int right=solve(root->right,ans,dp);
+    // if(dp.count(root))return dp[root];
+    int left=solve(root->left,ans);
+    int right=solve(root->right,ans);
     ans=max(ans,left+right);
     return max(left,right)+1;
 }
 
     int diameterOfBinaryTree(TreeNode* root) {
         int ans=0;
-        unordered_map<TreeNode*,int> dp;
-        solve(root,ans,dp);
+        // unordered_map<TreeNode*,int> dp;
+        solve(root,ans);
         return ans;
     }
 };
