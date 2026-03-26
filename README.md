@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/0087-scramble-string) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Rishisain1/Leet-code-problems/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Rishisain1/Leet-code-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -41,6 +42,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishisain1/Leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Rishisain1/Leet-code-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Rishisain1/Leet-code-problems/tree/master/0684-redundant-connection) |
@@ -212,11 +214,13 @@
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishisain1/Leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishisain1/Leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Counting
