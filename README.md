@@ -41,6 +41,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Rishisain1/Leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Rishisain1/Leet-code-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Rishisain1/Leet-code-problems/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
@@ -211,10 +212,12 @@
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Rishisain1/Leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Rishisain1/Leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Counting
 |  |
