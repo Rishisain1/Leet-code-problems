@@ -110,6 +110,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rishisain1/Leet-code-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Rishisain1/Leet-code-problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishisain1/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Biconnected Component
 |  |
 | ------- |
