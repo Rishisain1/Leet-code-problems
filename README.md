@@ -111,6 +111,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/Rishisain1/Leet-code-problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1980-find-unique-binary-string) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
