@@ -11,11 +11,11 @@ public:
         int ans=INT_MAX;
         for(auto [i,f]:freq){
             if(f>=3){
-                int j=arr[i][0],k=arr[i][1],l=arr[i][2];
+                int j=arr[i][0],k=arr[i][1],l;
                 int x=2;
                 while(f>=3){
                     l=arr[i][x];
-                    ans=min(ans,abs(j-k)+abs(j-l)+abs(k-l));
+                    ans=min(ans,2*(l - j));
                     j=k;
                     k=l;                    
                     x++;
