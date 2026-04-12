@@ -20,6 +20,7 @@
 | [0887-super-egg-drop](https://github.com/Rishisain1/Leet-code-problems/tree/master/0887-super-egg-drop) |
 | [1092-shortest-common-supersequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1143-longest-common-subsequence) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rishisain1/Leet-code-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Rishisain1/Leet-code-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishisain1/Leet-code-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -136,6 +137,7 @@
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
 | [1092-shortest-common-supersequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1143-longest-common-subsequence) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rishisain1/Leet-code-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rishisain1/Leet-code-problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
