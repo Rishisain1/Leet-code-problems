@@ -111,6 +111,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rishisain1/Leet-code-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rishisain1/Leet-code-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Rishisain1/Leet-code-problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/Rishisain1/Leet-code-problems/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rishisain1/Leet-code-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Rishisain1/Leet-code-problems/tree/master/3643-flip-square-submatrix-vertically) |
@@ -128,6 +129,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3488-closest-equal-element-queries](https://github.com/Rishisain1/Leet-code-problems/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -239,6 +241,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishisain1/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0887-super-egg-drop](https://github.com/Rishisain1/Leet-code-problems/tree/master/0887-super-egg-drop) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rishisain1/Leet-code-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/Rishisain1/Leet-code-problems/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rishisain1/Leet-code-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
