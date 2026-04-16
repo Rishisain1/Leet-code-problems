@@ -1,41 +1,38 @@
 class Solution {
 public:
     vector<int> solveQueries(vector<int>& nums, vector<int>& queries) {
-        int n = nums.size();
-        unordered_map<int, vector<int>> mp;
-
-        // store indices
-        for (int i = 0; i < n; i++) {
-            mp[nums[i]].push_back(i);
+        unordered_map<int,vector<int>> pos;
+        unordered_map<int,int> indx;
+        int n=nums.size();
+        for(int i=0;i<n;i++){
+            pos[nums[i]].push_back(i);
+            indx[i]=(pos[nums[i]].size())-1;
         }
-
         vector<int> ans;
-
-        for (int q : queries) {
-            vector<int>& v = mp[nums[q]];
-
-            // only one occurrence
-            if (v.size() == 1) {
+        for(auto q:queries){
+            auto &arr=pos[nums[q]];
+            int j=indx[q];
+            int m=arr.size();
+            if(m==1){
                 ans.push_back(-1);
                 continue;
             }
-
-            int pos = lower_bound(v.begin(), v.end(), q) - v.begin();
-            int res = INT_MAX;
-
-            // left neighbor
-            int left = v[(pos - 1 + v.size()) % v.size()];
-            int d1 = abs(q - left);
-            res = min(res, min(d1, n - d1));
-
-            // right neighbor
-            int right = v[(pos + 1) % v.size()];
-            int d2 = abs(q - right);
-            res = min(res, min(d2, n - d2));
-
-            ans.push_back(res);
+            if(j==0){
+                int left=n-arr[m-1]+arr[0];
+                int right=arr[j+1]-arr[j];
+                ans.push_back(min(left,right));
+            }
+            else if(j==m-1){
+                int left=arr[j]-arr[j-1];
+                int right=n-arr[j]+arr[0];
+                ans.push_back(min(left,right));
+            }
+            else{
+                int left=arr[j]-arr[j-1];
+                int right=arr[j+1]-arr[j];
+                ans.push_back(min(left,right));
+            }
         }
-
         return ans;
     }
-};
+}; 
