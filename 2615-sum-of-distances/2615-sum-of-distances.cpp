@@ -13,20 +13,16 @@ public:
                 continue;
             }
             vector<long long> pre(m);
-            vector<long long> post(m);
+            
             long long pr=0;
             for(int i=0;i<m;i++){
                 pre[i]=pr;
                 pr+=arr[i];
             }
-            long long po=0;
-            for(int i=m-1;i>=0;i--){
-                post[i]=po;
-                po+=arr[i];
-            }
+            
             for(int i=0;i<m;i++){
                 long long sum=abs(arr[i]*i - pre[i]);
-                sum+= abs(arr[i]*(m-i-1)-post[i]);
+                sum+= abs(arr[i]*(m-i-1)-(pr-arr[i]-pre[i]));// instead of post we use pre and calculate postsum value
                 ans[arr[i]]=sum;
             }
         }
