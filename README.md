@@ -115,6 +115,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Rishisain1/Leet-code-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Rishisain1/Leet-code-problems/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/Rishisain1/Leet-code-problems/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Rishisain1/Leet-code-problems/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Rishisain1/Leet-code-problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rishisain1/Leet-code-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -143,6 +144,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2615-sum-of-distances](https://github.com/Rishisain1/Leet-code-problems/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/Rishisain1/Leet-code-problems/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -191,6 +193,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Rishisain1/Leet-code-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rishisain1/Leet-code-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rishisain1/Leet-code-problems/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/Rishisain1/Leet-code-problems/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Rishisain1/Leet-code-problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
