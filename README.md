@@ -168,6 +168,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/Rishisain1/Leet-code-problems/tree/master/0657-robot-return-to-origin) |
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
+| [0796-rotate-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/0796-rotate-string) |
 | [1092-shortest-common-supersequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -394,6 +395,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Geometry
 |  |
