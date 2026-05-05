@@ -385,6 +385,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rishisain1/Leet-code-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Rishisain1/Leet-code-problems/tree/master/3643-flip-square-submatrix-vertically) |
@@ -401,4 +402,8 @@
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Rishisain1/Leet-code-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
