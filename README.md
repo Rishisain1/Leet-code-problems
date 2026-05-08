@@ -75,6 +75,7 @@
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Rishisain1/Leet-code-problems/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rishisain1/Leet-code-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rishisain1/Leet-code-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -135,6 +136,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Rishisain1/Leet-code-problems/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rishisain1/Leet-code-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rishisain1/Leet-code-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Rishisain1/Leet-code-problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -156,6 +158,7 @@
 | [2615-sum-of-distances](https://github.com/Rishisain1/Leet-code-problems/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/Rishisain1/Leet-code-problems/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rishisain1/Leet-code-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rishisain1/Leet-code-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -337,6 +340,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rishisain1/Leet-code-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rishisain1/Leet-code-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Rishisain1/Leet-code-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rishisain1/Leet-code-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rishisain1/Leet-code-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Ordered Set
@@ -409,4 +413,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/0061-rotate-list) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rishisain1/Leet-code-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
