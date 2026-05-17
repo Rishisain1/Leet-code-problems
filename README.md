@@ -64,6 +64,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rishisain1/Leet-code-problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1192-critical-connections-in-a-network](https://github.com/Rishisain1/Leet-code-problems/tree/master/1192-critical-connections-in-a-network) |
+| [1306-jump-game-iii](https://github.com/Rishisain1/Leet-code-problems/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rishisain1/Leet-code-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Rishisain1/Leet-code-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
@@ -74,6 +75,7 @@
 | [0684-redundant-connection](https://github.com/Rishisain1/Leet-code-problems/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Rishisain1/Leet-code-problems/tree/master/0827-making-a-large-island) |
+| [1306-jump-game-iii](https://github.com/Rishisain1/Leet-code-problems/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rishisain1/Leet-code-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rishisain1/Leet-code-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -106,6 +108,7 @@
 | [0827-making-a-large-island](https://github.com/Rishisain1/Leet-code-problems/tree/master/0827-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/Rishisain1/Leet-code-problems/tree/master/0874-walking-robot-simulation) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishisain1/Leet-code-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1306-jump-game-iii](https://github.com/Rishisain1/Leet-code-problems/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rishisain1/Leet-code-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishisain1/Leet-code-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rishisain1/Leet-code-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
