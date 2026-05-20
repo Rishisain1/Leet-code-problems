@@ -131,6 +131,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/Rishisain1/Leet-code-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Rishisain1/Leet-code-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/Rishisain1/Leet-code-problems/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishisain1/Leet-code-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/Rishisain1/Leet-code-problems/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Rishisain1/Leet-code-problems/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/Rishisain1/Leet-code-problems/tree/master/2906-construct-product-matrix) |
@@ -166,6 +167,7 @@
 | [1980-find-unique-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/Rishisain1/Leet-code-problems/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishisain1/Leet-code-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Rishisain1/Leet-code-problems/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/Rishisain1/Leet-code-problems/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -259,6 +261,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rishisain1/Leet-code-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishisain1/Leet-code-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/3011-find-if-array-can-be-sorted) |
 ## Matrix
 |  |
