@@ -183,6 +183,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishisain1/Leet-code-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Rishisain1/Leet-code-problems/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rishisain1/Leet-code-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3488-closest-equal-element-queries](https://github.com/Rishisain1/Leet-code-problems/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rishisain1/Leet-code-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -217,6 +218,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Rishisain1/Leet-code-problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rishisain1/Leet-code-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Sorting
