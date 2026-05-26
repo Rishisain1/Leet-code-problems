@@ -1,20 +1,14 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-       unordered_map<int,vector<int>> pos;
-       int n=nums.size();
-       for(int i=0;i<n;i++){
-            pos[nums[i]].push_back(i);
-        }
+    vector<int> twoSum(vector<int>& nums, int k) {
+        unordered_map<int,int> p;
+        int n=nums.size();
         for(int i=0;i<n;i++){
-            if(pos.count(target-nums[i])){
-                for(auto j:pos[target-nums[i]]){
-                    if(j!=i){
-                        return {i,j};
-                    }
-                }
+            if(p.count(k-nums[i])){
+                return {p[k-nums[i]],i};
             }
+            p[nums[i]]=i;
         }
-        return {-1,-1};
+        return {};
     }
 };
