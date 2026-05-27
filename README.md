@@ -115,6 +115,7 @@
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rishisain1/Leet-code-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0827-making-a-large-island](https://github.com/Rishisain1/Leet-code-problems/tree/master/0827-making-a-large-island) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Rishisain1/Leet-code-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/Rishisain1/Leet-code-problems/tree/master/0874-walking-robot-simulation) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishisain1/Leet-code-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1306-jump-game-iii](https://github.com/Rishisain1/Leet-code-problems/tree/master/1306-jump-game-iii) |
@@ -331,6 +332,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Rishisain1/Leet-code-problems/tree/master/0278-first-bad-version) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Rishisain1/Leet-code-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0887-super-egg-drop](https://github.com/Rishisain1/Leet-code-problems/tree/master/0887-super-egg-drop) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishisain1/Leet-code-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rishisain1/Leet-code-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
