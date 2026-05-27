@@ -1,46 +1,42 @@
 class Solution {
 public:
-
-int solve(vector<int>& arr, int d,int i,vector<int>& dp){
-    if(dp[i]!=-1)return dp[i];
-    int n=arr.size();
-    int x=max(0,i-d);
-    int y=min(n-1,i+d);
-    int left=1;
-    for(int j=i-1;j>=x;j--){
-        if(arr[i]<=arr[j])break;
-       
-            left=max(solve(arr,d,j,dp)+1,left);
-        
-    }
-    int right=1;
-    for(int j=i+1;j<=y;j++){
-        if(arr[i]<=arr[j])break;
-        
-            right=max(solve(arr,d,j,dp)+1,right);
-       
-    }
-    return dp[i]=max(left,right);
-
-}
-
     int maxJumps(vector<int>& arr, int d) {
-        int ans=1;
+        // using sorting and bootom up approach 
         int n=arr.size();
+        int ans=1;
         vector<int> dp(n,-1);
+        vector<pair<int,int>> sorted;
         for(int i=0;i<n;i++){
-            int count=1;
-            if(dp[i]==-1){
-                count=solve(arr,d,i,dp);
-            }
-            else{
-                count=dp[i];
-            }
-            ans=max(ans,count);       
+            sorted.push_back({arr[i],i});
         }
-        for(int i:dp){
-        cout<<i<<" ";
+        sort(sorted.begin(),sorted.end());
+        for(int i=0;i<n;i++){
+            auto [x,j]=sorted[i];
+            int l=max(0,j-d);
+            int r=min(j+d,n-1);
+            int left=1;
+            for(int a=j-1;a>=l;a--){
+                if(arr[a]<x){
+                    left=max(dp[a]+1,left);
+                }
+                else{
+                    break;
+                }
+            }
+            int right=1;
+            for(int a=j+1;a<=r;a++){
+                if(arr[a]<x){
+                    right=max(dp[a]+1,right);
+                }
+                else{
+                    break;
+                }
+            }
+            dp[j]=max(right,left);
+            ans=max(dp[j],ans);
         }
+        
         return ans;
+
     }
 };
