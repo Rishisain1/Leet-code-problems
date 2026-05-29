@@ -119,6 +119,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rishisain1/Leet-code-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/Rishisain1/Leet-code-problems/tree/master/0874-walking-robot-simulation) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishisain1/Leet-code-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishisain1/Leet-code-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1306-jump-game-iii](https://github.com/Rishisain1/Leet-code-problems/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Rishisain1/Leet-code-problems/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rishisain1/Leet-code-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -339,6 +340,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rishisain1/Leet-code-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0887-super-egg-drop](https://github.com/Rishisain1/Leet-code-problems/tree/master/0887-super-egg-drop) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishisain1/Leet-code-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishisain1/Leet-code-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rishisain1/Leet-code-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rishisain1/Leet-code-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Rishisain1/Leet-code-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
