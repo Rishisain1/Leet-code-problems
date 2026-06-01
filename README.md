@@ -178,6 +178,7 @@
 | [0001-two-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishisain1/Leet-code-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Rishisain1/Leet-code-problems/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Rishisain1/Leet-code-problems/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
 | [0874-walking-robot-simulation](https://github.com/Rishisain1/Leet-code-problems/tree/master/0874-walking-robot-simulation) |
@@ -205,6 +206,7 @@
 | [0087-scramble-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/Rishisain1/Leet-code-problems/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/Rishisain1/Leet-code-problems/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Rishisain1/Leet-code-problems/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/Rishisain1/Leet-code-problems/tree/master/0657-robot-return-to-origin) |
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
@@ -234,6 +236,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Rishisain1/Leet-code-problems/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rishisain1/Leet-code-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1340-jump-game-v](https://github.com/Rishisain1/Leet-code-problems/tree/master/1340-jump-game-v) |
