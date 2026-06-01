@@ -3,17 +3,20 @@ public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         sort(nums.begin(),nums.end());
         int n=nums.size();
-        set<vector<int>> unique;
+        vector<vector<int>> ans;
         for(int i=0;i<n-2;i++){
+            if(i-1>=0&&nums[i]==nums[i-1])continue;
             int left=i+1;
             int right=n-1;
             while(left<right){
-                if(nums[i]+nums[left]+nums[right]==0){
-                    unique.insert({nums[i],nums[left],nums[right]});
+                int sum=nums[i]+nums[left]+nums[right];
+                if(sum==0){
+                    ans.push_back({nums[i],nums[left],nums[right]});
                     left++;
                     right--;
+                    while(left<right&&nums[left]==nums[left-1])left++;
                 }
-                else if(nums[left]+nums[right]>-nums[i]){
+                else if(sum>0){
                     right--;
                 }
                 else {
@@ -21,10 +24,7 @@ public:
                 }
             }
         }
-        vector<vector<int>> ans;
-        for(auto a:unique){
-            ans.push_back(a);
-        }
+        
         return ans;
     }
 };
