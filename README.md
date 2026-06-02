@@ -100,6 +100,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishisain1/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Rishisain1/Leet-code-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishisain1/Leet-code-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rishisain1/Leet-code-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -417,6 +418,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rishisain1/Leet-code-problems/tree/master/0011-container-with-most-water) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishisain1/Leet-code-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Rishisain1/Leet-code-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -462,6 +464,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rishisain1/Leet-code-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
