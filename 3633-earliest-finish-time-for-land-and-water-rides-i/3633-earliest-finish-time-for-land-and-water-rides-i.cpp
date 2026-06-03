@@ -1,27 +1,52 @@
 class Solution {
-    int solve(vector<int>& start1, vector<int>& duration1, vector<int>& start2,
-              vector<int>& duration2) {
-        int finish1 = INT_MAX;
-        for (int i = 0; i < start1.size(); i++) {
-            finish1 = min(finish1, start1[i] + duration1[i]);
-        }
-
-        int finish2 = INT_MAX;
-        for (int i = 0; i < start2.size(); i++) {
-            finish2 = min(finish2, max(start2[i], finish1) + duration2[i]);
-        }
-        return finish2;
-    }
-
 public:
-    int earliestFinishTime(vector<int>& landStartTime,
-                           vector<int>& landDuration,
-                           vector<int>& waterStartTime,
-                           vector<int>& waterDuration) {
-        int land_water =
-            solve(landStartTime, landDuration, waterStartTime, waterDuration);
-        int water_land =
-            solve(waterStartTime, waterDuration, landStartTime, landDuration);
-        return min(land_water, water_land);
+    int earliestFinishTime(vector<int>& landStartTime, vector<int>& landDuration, vector<int>& waterStartTime, vector<int>& waterDuration) {
+        vector<pair<int,int>> land;
+        vector<pair<int,int>> water;
+        int n=landStartTime.size();
+        int m=waterStartTime.size();
+        for(int i=0;i<n;i++){
+            land.push_back({landStartTime[i],landDuration[i]});
+
+        }
+        for(int i=0;i<m;i++){
+            water.push_back({waterStartTime[i],waterDuration[i]});
+        }
+        sort(land.begin(),land.end());
+        sort(water.begin(),water.end());
+        int ans=INT_MAX;
+        for(int i=0;i<n;i++){
+            auto [s,d]=land[i];
+            if(s>ans)break;
+            int res=s+d;
+            for(int j=0;j<m;j++){
+                auto [sw,dw]=water[j];
+                if(sw>ans)break;
+                if(sw>=res){
+                    ans=min(ans,sw+dw);
+                }
+                else{
+                    ans=min(ans,res+dw);
+                }
+
+            }
+        }
+        for(int i=0;i<m;i++){
+            auto [s,d]=water[i];
+            if(s>ans)break;
+            int res=s+d;
+            for(int j=0;j<n;j++){
+                auto [sw,dw]=land[j];
+                if(sw>ans)break;
+                if(sw>=res){
+                    ans=min(ans,sw+dw);
+                }
+                else{
+                    ans=min(ans,res+dw);
+                }
+
+            }
+        }
+        return ans;
     }
 };
