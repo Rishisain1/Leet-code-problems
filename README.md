@@ -14,6 +14,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rishisain1/Leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rishisain1/Leet-code-problems/tree/master/0053-maximum-subarray) |
 | [0087-scramble-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -104,6 +105,7 @@
 | [0015-3sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishisain1/Leet-code-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rishisain1/Leet-code-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Rishisain1/Leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Rishisain1/Leet-code-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Rishisain1/Leet-code-problems/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishisain1/Leet-code-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -280,6 +282,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rishisain1/Leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [2751-robot-collisions](https://github.com/Rishisain1/Leet-code-problems/tree/master/2751-robot-collisions) |
 ## Simulation
 |  |
@@ -474,6 +477,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishisain1/Leet-code-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Rishisain1/Leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rishisain1/Leet-code-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -511,4 +515,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Rishisain1/Leet-code-problems/tree/master/0278-first-bad-version) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rishisain1/Leet-code-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
