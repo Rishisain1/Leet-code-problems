@@ -41,6 +41,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/Rishisain1/Leet-code-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Rishisain1/Leet-code-problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Rishisain1/Leet-code-problems/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -419,6 +420,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Rishisain1/Leet-code-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rishisain1/Leet-code-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rishisain1/Leet-code-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Ordered Set
 |  |
@@ -489,6 +491,7 @@
 |  |
 | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String Matching
 |  |
 | ------- |
