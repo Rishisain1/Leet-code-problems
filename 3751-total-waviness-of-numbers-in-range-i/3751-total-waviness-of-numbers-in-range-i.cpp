@@ -5,17 +5,22 @@ public:
         int ans=0;
         for(int i=num1;i<=num2;i++){
             if(i<101)continue;
-            vector<int> temp;
+            int a,b,c;
             int x=i;
+            
+            a=x%10;
+            x/=10;
+            b=x%10;
+            x/=10;
+            c=x%10;
+            x/=10;
+            if((a<b&&c<b)||(a>b&&c>b))ans++;
             while(x>0){
-                temp.push_back(x%10);
+                a=b;
+                b=c;
+                c=x%10;
                 x=x/10;
-            }
-            int n=temp.size();
-            for(int j=1;j<n-1;j++){
-                if((temp[j]>temp[j-1]&&temp[j]>temp[j+1])||(temp[j]<temp[j-1]&&temp[j]<temp[j+1])){
-                    ans++;
-                }
+                if((a<b&&c<b)||(a>b&&c>b))ans++;
             }
         }
         return ans;
