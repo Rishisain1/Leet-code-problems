@@ -12,35 +12,44 @@
 class Solution {
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
-        unordered_map<int,int> visited;
-        unordered_map<int,vector<pair<int,int>>> graph;
-        for(auto & a:descriptions){
-            visited[a[1]]=1;
-            graph[a[0]].push_back({a[1],a[2]});
-        }
-        queue<TreeNode*> queue;
-        for(auto &a:descriptions){
-            if(!visited.count(a[0])){
-                TreeNode* temp=new TreeNode(a[0]);
-                queue.push(temp);
-                break;
+        unordered_map<int,TreeNode*> tree;
+        unordered_set <int> childs;
+        for(auto & d:descriptions){
+            int p=d[0],c=d[1],l=d[2];
+            childs.insert(c);
+            TreeNode* parent;
+            if(tree.count(p)){
+                parent=tree[p];
             }
-        }
-        TreeNode* tree=queue.front();
-        while(!queue.empty()){
-            auto curr=queue.front();
-            queue.pop();
-            for(auto [u,left]:graph[curr->val]){
-                TreeNode* temp=new TreeNode(u);
-                if(left){
-                    curr->left=temp;
+            else{
+                parent=new TreeNode(p);
+                tree[p]=parent;
+            }
+
+            // child
+            TreeNode* child;
+            if(tree.count(c)){
+                child=tree[c];
+                
+            }
+            else{
+                child=new TreeNode(c);
+                tree[c]=child;
+                
+            }
+
+            if(l){
+                    parent->left=child;
                 }
                 else{
-                    curr->right =temp;
+                    parent->right=child;
                 }
-                queue.push(temp);
+        }
+        for(auto d: descriptions){
+            if(!childs.count(d[0])){
+                return tree[d[0]];
             }
         }
-        return tree;
+        return nullptr;
     }
 };
