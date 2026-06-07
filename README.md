@@ -150,6 +150,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rishisain1/Leet-code-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Rishisain1/Leet-code-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rishisain1/Leet-code-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rishisain1/Leet-code-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Rishisain1/Leet-code-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Rishisain1/Leet-code-problems/tree/master/2573-find-the-string-with-lcp) |
@@ -196,6 +197,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rishisain1/Leet-code-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rishisain1/Leet-code-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/Rishisain1/Leet-code-problems/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishisain1/Leet-code-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -399,6 +401,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishisain1/Leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rishisain1/Leet-code-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -406,6 +409,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishisain1/Leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rishisain1/Leet-code-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Counting
 |  |
 | ------- |
