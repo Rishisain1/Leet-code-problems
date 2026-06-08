@@ -1,50 +1,27 @@
 class Solution {
 public:
     int earliestFinishTime(vector<int>& landStartTime, vector<int>& landDuration, vector<int>& waterStartTime, vector<int>& waterDuration) {
-        vector<pair<int,int>> land;
-        vector<pair<int,int>> water;
-        int n=landStartTime.size();
-        int m=waterStartTime.size();
+        int land=INT_MAX,water=INT_MAX,n=landStartTime.size(),m=waterStartTime.size(),ans=INT_MAX;
         for(int i=0;i<n;i++){
-            land.push_back({landStartTime[i],landDuration[i]});
-
+            land=min(land,landStartTime[i]+landDuration[i]);
         }
+        //join with water
         for(int i=0;i<m;i++){
-            water.push_back({waterStartTime[i],waterDuration[i]});
-        }
-        sort(land.begin(),land.end());
-        sort(water.begin(),water.end());
-        int ans=INT_MAX;
-        for(int i=0;i<n;i++){
-            auto [s,d]=land[i];
-            if(s>ans)break;
-            int res=s+d;
-            for(int j=0;j<m;j++){
-                auto [sw,dw]=water[j];
-                if(sw>ans)break;
-                if(sw>=res){
-                    ans=min(ans,sw+dw);
-                }
-                else{
-                    ans=min(ans,res+dw);
-                }
-
+            water=min(water,waterStartTime[i]+waterDuration[i]);
+            if(waterStartTime[i]<=land){
+                ans=min(ans,land+waterDuration[i]);
+            }
+            else{
+                ans=min(ans,waterStartTime[i]+waterDuration[i]);
             }
         }
-        for(int i=0;i<m;i++){
-            auto [s,d]=water[i];
-            if(s>ans)break;
-            int res=s+d;
-            for(int j=0;j<n;j++){
-                auto [sw,dw]=land[j];
-                if(sw>ans)break;
-                if(sw>=res){
-                    ans=min(ans,sw+dw);
-                }
-                else{
-                    ans=min(ans,res+dw);
-                }
-
+        // water join to land
+        for(int i=0;i<n;i++){
+            if(landStartTime[i]<=water){
+                ans=min(ans,water+landDuration[i]);
+            }
+            else{
+                ans=min(ans,landStartTime[i]+landDuration[i]);
             }
         }
         return ans;
