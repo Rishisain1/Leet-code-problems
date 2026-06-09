@@ -62,6 +62,7 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0365-water-and-jug-problem](https://github.com/Rishisain1/Leet-code-problems/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishisain1/Leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Rishisain1/Leet-code-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Rishisain1/Leet-code-problems/tree/master/0684-redundant-connection) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Rishisain1/Leet-code-problems/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/Rishisain1/Leet-code-problems/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/Rishisain1/Leet-code-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Rishisain1/Leet-code-problems/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
@@ -426,6 +428,7 @@
 ## Math
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Rishisain1/Leet-code-problems/tree/master/0365-water-and-jug-problem) |
 | [0788-rotated-digits](https://github.com/Rishisain1/Leet-code-problems/tree/master/0788-rotated-digits) |
 | [0887-super-egg-drop](https://github.com/Rishisain1/Leet-code-problems/tree/master/0887-super-egg-drop) |
 | [1622-fancy-sequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1622-fancy-sequence) |
