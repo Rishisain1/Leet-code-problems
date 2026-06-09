@@ -181,6 +181,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/Rishisain1/Leet-code-problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Rishisain1/Leet-code-problems/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -458,6 +459,7 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rishisain1/Leet-code-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Recursion
 |  |
 | ------- |
