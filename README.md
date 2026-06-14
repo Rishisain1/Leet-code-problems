@@ -304,6 +304,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishisain1/Leet-code-problems/tree/master/0042-trapping-rain-water) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Rishisain1/Leet-code-problems/tree/master/2751-robot-collisions) |
 ## Simulation
 |  |
@@ -523,6 +524,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rishisain1/Leet-code-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Rishisain1/Leet-code-problems/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rishisain1/Leet-code-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -545,6 +547,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
