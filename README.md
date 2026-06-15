@@ -524,6 +524,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rishisain1/Leet-code-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Rishisain1/Leet-code-problems/tree/master/1861-rotating-the-box) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rishisain1/Leet-code-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -547,6 +548,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/0061-rotate-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
 |  |
