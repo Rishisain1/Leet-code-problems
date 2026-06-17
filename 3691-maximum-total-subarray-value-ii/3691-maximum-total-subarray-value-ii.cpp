@@ -1,34 +1,54 @@
 class Solution {
 public:
+// one more impreovement as the whole code is same so instead of two different function call we done it in a single function
+// void buildpsmin(vector<vector<int>> &spmin,vector<int>& nums,int n){
+//     int m=nums.size();
+//     for(int i=0;i<m;i++){
+//         spmin[0][i]=nums[i];
+//     }
+//     for(int a=1;a<n;a++){
+//         int i=0;
+//         int p2=pow(2,a-1);
+//         while( i+p2 <m){
+//             spmin[a][i]=min(spmin[a-1][i],spmin[a-1][i+p2]);
+//             i++;
+//         }
+//     }
+// }
 
-void buildpsmin(vector<vector<int>> &spmin,vector<int>& nums,int n){
+// void buildpsmax(vector<vector<int>> &spmin,vector<int>& nums,int n){
+//     int m=nums.size();
+//     for(int i=0;i<m;i++){
+//         spmin[0][i]=nums[i];
+//     }
+//     for(int a=1;a<n;a++){
+//         int i=0;
+//         int p2=pow(2,a-1);
+//         while( i+p2 <m){
+//             spmin[a][i]=max(spmin[a-1][i],spmin[a-1][i+p2]);
+//             i++;
+//         }
+//     }
+// }
+
+void buildsp(vector<vector<int>> &spmin,vector<vector<int>> &spmax,vector<int>& nums,int n){
     int m=nums.size();
     for(int i=0;i<m;i++){
         spmin[0][i]=nums[i];
+        spmax[0][i]=nums[i];
     }
     for(int a=1;a<n;a++){
         int i=0;
         int p2=pow(2,a-1);
         while( i+p2 <m){
             spmin[a][i]=min(spmin[a-1][i],spmin[a-1][i+p2]);
+            spmax[a][i]=max(spmax[a-1][i],spmax[a-1][i+p2]);
             i++;
         }
     }
 }
-void buildpsmax(vector<vector<int>> &spmin,vector<int>& nums,int n){
-    int m=nums.size();
-    for(int i=0;i<m;i++){
-        spmin[0][i]=nums[i];
-    }
-    for(int a=1;a<n;a++){
-        int i=0;
-        int p2=pow(2,a-1);
-        while( i+p2 <m){
-            spmin[a][i]=max(spmin[a-1][i],spmin[a-1][i+p2]);
-            i++;
-        }
-    }
-}
+
+
 // intead of range use log2  in built function 
 // vector<int> range(int n){
 //         vector<int> result;
@@ -63,8 +83,9 @@ void buildpsmax(vector<vector<int>> &spmin,vector<int>& nums,int n){
         }
         vector<vector<int>> spmin(count,vector<int>(n));
         vector<vector<int>> spmax(count,vector<int>(n));
-        buildpsmin(spmin,nums,count);
-        buildpsmax(spmax,nums,count);
+        // buildpsmin(spmin,nums,count);
+        // buildpsmax(spmax,nums,count);
+        buildsp(spmin,spmax,nums,count);
         priority_queue<tuple<int,int,int>> pq;
         for(int i=0;i<n;i++){
             // vector<int> op=range(n-i);//instead of this use the log2 
