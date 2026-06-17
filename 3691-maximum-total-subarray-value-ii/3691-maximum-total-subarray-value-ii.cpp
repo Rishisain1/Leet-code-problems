@@ -29,25 +29,25 @@ void buildpsmax(vector<vector<int>> &spmin,vector<int>& nums,int n){
         }
     }
 }
-
-vector<int> range(int n){
-        vector<int> result;
-        int p2=1;
-        int count=0;
-        while(p2<n){
-            p2*=2;
-            count++;
-        }
-        while(n>0){
-            if(n>=p2){
-                result.push_back(count);
-                n-=p2;
-            }
-            p2/=2;
-            count--;
-        }
-        return result;
-    }
+// intead of range use log2  in built function 
+// vector<int> range(int n){
+//         vector<int> result;
+//         int p2=1;
+//         int count=0;
+//         while(p2<n){
+//             p2*=2;
+//             count++;
+//         }
+//         while(n>0){
+//             if(n>=p2){
+//                 result.push_back(count);
+//                 n-=p2;
+//             }
+//             p2/=2;
+//             count--;
+//         }
+//         return result;
+//     }
 
     long long maxTotalValue(vector<int>& nums, int k) {
        
@@ -67,18 +67,25 @@ vector<int> range(int n){
         buildpsmax(spmax,nums,count);
         priority_queue<tuple<int,int,int>> pq;
         for(int i=0;i<n;i++){
-            vector<int> op=range(n-i);
+            // vector<int> op=range(n-i);//instead of this use the log2 
+            // int j=i;// instead of two seperate for loops we do it in 1 for loop 
+            // int mini=INT_MAX;
+            // int maxi=INT_MIN;
+            // for(int o:op){
+            //     mini=min(mini,spmin[o][j]);
+            //     maxi=max(maxi,spmax[o][j]);
+            //     j+=pow(2,o);
+            // }
+            int len=n-i;
             int j=i;
             int mini=INT_MAX;
-            for(int o:op){
-                mini=min(mini,spmin[o][j]);
-                j+=pow(2,o);
-            }
-            int k=i;
             int maxi=INT_MIN;
-            for(int o:op){
-                maxi=max(maxi,spmax[o][k]);
-                k+=pow(2,o);
+            while(len>0){
+                int p=log2(len);
+                mini=min(mini,spmin[p][j]);
+                maxi=max(maxi,spmax[p][j]);
+                len-=pow(2,p);
+                j+=pow(2,p);
             }
             pq.push({maxi-mini,i,n-1});
         }
@@ -87,19 +94,16 @@ vector<int> range(int n){
             auto [a,l,r]=pq.top();
             pq.pop();
             ans+=a;
-            
-            vector<int> op=range(r-l);
+            int len=r-l;
             int j=l;
             int mini=INT_MAX;
-            for(int o:op){
-                mini=min(mini,spmin[o][j]);
-                j+=pow(2,o);
-            }
-            int k=l;
             int maxi=INT_MIN;
-            for(int o:op){
-                maxi=max(maxi,spmax[o][k]);
-                k+=pow(2,o);
+            while(len>0){
+                int p=log2(len);
+                mini=min(mini,spmin[p][j]);
+                maxi=max(maxi,spmax[p][j]);
+                len-=pow(2,p);
+                j+=pow(2,p);
             }
             if(maxi!=INT_MIN)
             pq.push({maxi-mini,l,r-1});
