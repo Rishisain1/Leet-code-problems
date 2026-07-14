@@ -121,6 +121,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishisain1/Leet-code-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/Rishisain1/Leet-code-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0494-target-sum) |
@@ -300,6 +301,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishisain1/Leet-code-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rishisain1/Leet-code-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -396,6 +398,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishisain1/Leet-code-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Rishisain1/Leet-code-problems/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishisain1/Leet-code-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rishisain1/Leet-code-problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -511,6 +514,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishisain1/Leet-code-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Rishisain1/Leet-code-problems/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishisain1/Leet-code-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/0643-maximum-average-subarray-i) |
