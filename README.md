@@ -17,6 +17,7 @@
 | [0042-trapping-rain-water](https://github.com/Rishisain1/Leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rishisain1/Leet-code-problems/tree/master/0053-maximum-subarray) |
 | [0087-scramble-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/0087-scramble-string) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishisain1/Leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Rishisain1/Leet-code-problems/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Rishisain1/Leet-code-problems/tree/master/0322-coin-change) |
@@ -118,6 +119,7 @@
 | [0042-trapping-rain-water](https://github.com/Rishisain1/Leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Rishisain1/Leet-code-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Rishisain1/Leet-code-problems/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishisain1/Leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishisain1/Leet-code-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
