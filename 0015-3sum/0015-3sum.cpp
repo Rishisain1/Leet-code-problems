@@ -1,42 +1,35 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        int n=nums.size();
         vector<vector<int>> ans;
-        // map<tuple<int,int,int>,int> visited;
+        
         sort(nums.begin(),nums.end());
-        int i=0;
-       while(i<n){
-            int j=i+1;
-            int k=n-1;
-            int target=-(nums[i]);
-            
+        int n=nums.size();
+        for(int i=0;i<n-2;i++){
+            if(i-1>=0&&nums[i]==nums[i-1])continue;
+            int target =-nums[i];
+            int j=i+1,k=n-1;
             while(j<k){
-                int sum=nums[j]+nums[k];
-                if(sum<=target){
-                    if(sum==target){
-                        ans.push_back({nums[i],nums[j],nums[k]});
-                        // visited[{nums[i],nums[j],nums[k]}]=1;
-                    }
+                if(nums[j]+nums[k]==target){
+                    ans.push_back({nums[i],nums[j],nums[k]});
                     j++;
-                    while(j<n&&nums[j-1]==nums[j]){
-                        j++;
-                    }
-                }
-               
-                else{
                     k--;
-                    while(k>=0&&nums[k+1]==nums[k]){
-                        k--;
-                    }
+                    while(j<n&&nums[j]==nums[j-1]){
+                    j++;
                 }
-            }
-            i++;
-            while(i<n&&nums[i-1]==nums[i]){
-                i++;
+                }
+                else if(nums[j]+nums[k]>target){
+                    k--;
+                }
+                else{
+                    j++;
+                    while(j<n&&nums[j]==nums[j-1]){
+                    j++;
+                }
+                }
+                
             }
         }
         return ans;
-        
     }
 };
