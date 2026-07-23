@@ -1,29 +1,32 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int k) {
-        int count = 0;
-        unordered_map<int, int> freq;
-        int i = 0, j = 0, n = nums.size();
-        // we have to update count in every single step not only in the case of freqsize()==k
-        while (j < n) {
-            freq[nums[j]]++;
 
-            while (freq.size() > k) {
+    int atmost(vector<int>&nums,int k){
+        int i=0;
+        int j=0;
+        int n=nums.size();
+        unordered_map<int,int> freq;
+        int count=0;
+        while(j<n){
+            freq[nums[j]]++;
+            while(freq.size()>k){
                 freq[nums[i]]--;
-                if (freq[nums[i]] == 0) {
+                if(freq[nums[i]]==0){
                     freq.erase(nums[i]);
                 }
-
                 i++;
             }
-            count += (j - i + 1);
-
+            // this makes the condition invalid because we count at most k but it create inconsistency for result so just use 
+            // if(freq.size()==k){
+            //     count+=(j-i+1);
+            // }
+            count+=j-i+1;
             j++;
         }
         return count;
     }
 
     int subarraysWithKDistinct(vector<int>& nums, int k) {
-        return solve(nums, k) - solve(nums, k - 1);
+        return  atmost(nums,k) - atmost(nums,k-1);
     }
 };
