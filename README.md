@@ -211,6 +211,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishisain1/Leet-code-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Rishisain1/Leet-code-problems/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Rishisain1/Leet-code-problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Rishisain1/Leet-code-problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Rishisain1/Leet-code-problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishisain1/Leet-code-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -569,6 +570,7 @@
 | [0042-trapping-rain-water](https://github.com/Rishisain1/Leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Rishisain1/Leet-code-problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/0876-middle-of-the-linked-list) |
@@ -599,6 +601,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Rishisain1/Leet-code-problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
