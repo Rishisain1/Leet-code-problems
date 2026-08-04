@@ -22,6 +22,7 @@
 | [0131-palindrome-partitioning](https://github.com/Rishisain1/Leet-code-problems/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Rishisain1/Leet-code-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Rishisain1/Leet-code-problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0518-coin-change-ii) |
@@ -126,6 +127,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/Rishisain1/Leet-code-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Rishisain1/Leet-code-problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishisain1/Leet-code-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -477,6 +479,7 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Rishisain1/Leet-code-problems/tree/master/0365-water-and-jug-problem) |
+| [0486-predict-the-winner](https://github.com/Rishisain1/Leet-code-problems/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Rishisain1/Leet-code-problems/tree/master/0788-rotated-digits) |
 | [0887-super-egg-drop](https://github.com/Rishisain1/Leet-code-problems/tree/master/0887-super-egg-drop) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishisain1/Leet-code-problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -523,6 +526,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Rishisain1/Leet-code-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rishisain1/Leet-code-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Rishisain1/Leet-code-problems/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/Rishisain1/Leet-code-problems/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
 |  |
@@ -634,4 +638,16 @@
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishisain1/Leet-code-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Rishisain1/Leet-code-problems/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Rishisain1/Leet-code-problems/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Rishisain1/Leet-code-problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
