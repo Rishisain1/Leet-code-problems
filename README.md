@@ -29,6 +29,7 @@
 | [0518-coin-change-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/Rishisain1/Leet-code-problems/tree/master/0788-rotated-digits) |
 | [0887-super-egg-drop](https://github.com/Rishisain1/Leet-code-problems/tree/master/0887-super-egg-drop) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Rishisain1/Leet-code-problems/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Rishisain1/Leet-code-problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -145,6 +146,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Rishisain1/Leet-code-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishisain1/Leet-code-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishisain1/Leet-code-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/1043-partition-array-for-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishisain1/Leet-code-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1306-jump-game-iii](https://github.com/Rishisain1/Leet-code-problems/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Rishisain1/Leet-code-problems/tree/master/1340-jump-game-v) |
