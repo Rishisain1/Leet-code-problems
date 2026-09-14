@@ -131,6 +131,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishisain1/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Rishisain1/Leet-code-problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/Rishisain1/Leet-code-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Rishisain1/Leet-code-problems/tree/master/0486-predict-the-winner) |
@@ -222,6 +223,7 @@
 | [0141-linked-list-cycle](https://github.com/Rishisain1/Leet-code-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Rishisain1/Leet-code-problems/tree/master/0187-repeated-dna-sequences) |
+| [0229-majority-element-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Rishisain1/Leet-code-problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishisain1/Leet-code-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishisain1/Leet-code-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -299,6 +301,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0015-3sum) |
+| [0229-majority-element-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Rishisain1/Leet-code-problems/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/Rishisain1/Leet-code-problems/tree/master/0721-accounts-merge) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rishisain1/Leet-code-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -478,6 +481,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rishisain1/Leet-code-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Rishisain1/Leet-code-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rishisain1/Leet-code-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -660,4 +664,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rishisain1/Leet-code-problems/tree/master/0486-predict-the-winner) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
