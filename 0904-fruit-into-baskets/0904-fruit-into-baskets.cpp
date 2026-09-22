@@ -1,48 +1,39 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        int first=-1,second=-1,n=fruits.size();
-        vector<int> freq(2,0);
-        int ans=0;
-        int i=0,j=0;
+        int i=0,j=0,n=fruits.size(),t1=-1,t2=-1,f1=0,f2=0,ans=0;
         while(j<n){
-            if(first==-1||fruits[j]==first){
-                first=fruits[j];
-                freq[0]++;
+            if(t1==-1||t1==fruits[j]){
+                t1=fruits[j];
+                f1++;
             }
-            else if(second==-1||fruits[j]==second){
-                second=fruits[j];
-                freq[1]++;
+            else if(t2==-1||t2==fruits[j]){
+                t2=fruits[j];
+                f2++;
             }
             else{
-                // int f=first,s=second;
-                // vector<int> temp=freq;
-                while(i<n){
-                    if(fruits[i]==first){
-                        freq[0]--;
-                        if(freq[0]==0){
-                            first=fruits[j];
-                            freq[0]=1;
-                            i++;
-                            break;
-                        }
-                        i++;
+                while(f1!=0&&f2!=0){
+                    if(fruits[i]==t1){
+                        f1--;
                     }
                     else{
-                        freq[1]--;
-                        if(freq[1]==0){
-                            second=fruits[j];
-                            freq[1]=1;
-                            i++;
-                            break;
-                        }
-                        i++;
+                        f2--;
                     }
+                    i++;
+                }
+                if(f1==0){
+                    f1=1;
+                    t1=fruits[j];
+                }
+                else{
+                    f2=1;
+                    t2=fruits[j];
                 }
             }
+            ans=max(ans,f1+f2);
             j++;
-            ans=max(ans,j-i);
         }
+        ans=max(ans,f1+f2);
         return ans;
     }
 };
