@@ -16,7 +16,7 @@ public:
             prev2=prev1;
             prev1=curr;
         }
-        return max(prev2,prev1);
+        return prev1;
     }
 
     int rob(vector<int>& nums) {
