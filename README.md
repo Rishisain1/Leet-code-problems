@@ -54,6 +54,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Rishisain1/Leet-code-problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Rishisain1/Leet-code-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Rishisain1/Leet-code-problems/tree/master/0684-redundant-connection) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rishisain1/Leet-code-problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishisain1/Leet-code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0207-course-schedule](https://github.com/Rishisain1/Leet-code-problems/tree/master/0207-course-schedule) |
 | [0365-water-and-jug-problem](https://github.com/Rishisain1/Leet-code-problems/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishisain1/Leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Rishisain1/Leet-code-problems/tree/master/0547-number-of-provinces) |
@@ -88,6 +90,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Rishisain1/Leet-code-problems/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Rishisain1/Leet-code-problems/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/Rishisain1/Leet-code-problems/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/Rishisain1/Leet-code-problems/tree/master/0547-number-of-provinces) |
@@ -668,4 +671,12 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0229-majority-element-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Rishisain1/Leet-code-problems/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Rishisain1/Leet-code-problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
