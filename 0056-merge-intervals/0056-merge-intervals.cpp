@@ -7,13 +7,21 @@ public:
         
         for(int i=1;i<intervals.size();i++){
             int n=ans.size();
-            if(ans[n-1][0]<=intervals[i][0]&&ans[n-1][1]>=intervals[i][0]){
-                ans[n-1][0]=min(ans[n-1][0],intervals[i][0]);
+            // if(ans[n-1][0]<=intervals[i][0]&&ans[n-1][1]>=intervals[i][0]){
+            //     ans[n-1][0]=min(ans[n-1][0],intervals[i][0]);
+            //     ans[n-1][1]=max(ans[n-1][1],intervals[i][1]);
+            // }
+            // else{
+            //     ans.push_back(intervals[i]);
+            // }
+            // optimizations as the intervals is sorted so always the interval exist inside the ans its first element is always smaller or equal 
+            if(ans[n-1][1]>=intervals[i][0]){
                 ans[n-1][1]=max(ans[n-1][1],intervals[i][1]);
             }
             else{
                 ans.push_back(intervals[i]);
             }
+            
         }
         return ans;
     }
