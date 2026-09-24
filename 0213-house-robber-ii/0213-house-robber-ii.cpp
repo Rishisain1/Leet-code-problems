@@ -1,29 +1,19 @@
 class Solution {
 public:
 
-    int solve(vector<int>&nums,int robbed,int i,vector<vector<int>>&dp){
-        int n=nums.size();
-        if(i>=n)return 0;
-        if(dp[i][robbed]!=-1)return dp[i][robbed];
-        if(i==0){
-            return dp[i][robbed]=max(solve(nums,1,i+2,dp)+nums[i],solve(nums,0,i+1,dp));
+    int solve(vector<int>&nums,vector<int>&dp,int i,int n){
+        if(i>=n){
+            return 0;
         }
-        else if(i==n-1){
-            if(robbed){
-                return 0;
-            }
-            else{
-                return nums[i];
-            }
-        }
-        else{
-            return dp[i][robbed]= max(solve(nums,robbed,i+2,dp)+nums[i],solve(nums,robbed,i+1,dp));
-        }
+        if(dp[i]!=-1)return dp[i];
+        return dp[i]=max(solve(nums,dp,i+1,n),solve(nums,dp,i+2,n)+nums[i]);
     }
 
     int rob(vector<int>& nums) {
         int n=nums.size();
-        vector<vector<int>> dp(n,vector<int>(2,-1));
-        return solve(nums,0,0,dp);
+        if(n==1)return nums[0];
+        vector<int>dp1(n,-1);
+        vector<int>dp2(n,-1);
+        return max(solve(nums,dp1,0,n-1),solve(nums,dp2,1,n));
     }
 };
