@@ -14,6 +14,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rishisain1/Leet-code-problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rishisain1/Leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rishisain1/Leet-code-problems/tree/master/0053-maximum-subarray) |
 | [0087-scramble-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/0087-scramble-string) |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishisain1/Leet-code-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Rishisain1/Leet-code-problems/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Rishisain1/Leet-code-problems/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Rishisain1/Leet-code-problems/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/Rishisain1/Leet-code-problems/tree/master/0131-palindrome-partitioning) |
@@ -418,6 +420,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rishisain1/Leet-code-problems/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Rishisain1/Leet-code-problems/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rishisain1/Leet-code-problems/tree/master/0131-palindrome-partitioning) |
@@ -703,4 +706,8 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Rishisain1/Leet-code-problems/tree/master/0337-house-robber-iii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Rishisain1/Leet-code-problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
