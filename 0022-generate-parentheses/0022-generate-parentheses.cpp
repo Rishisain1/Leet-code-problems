@@ -21,20 +21,23 @@ public:
         return false;
     }
 
-    void solve(int i,int n,string temp,vector<string> &ans){
-        if(i==n){
-            if(validate(temp)){
-                ans.push_back(temp);
-            }
+    void solve(int n,int cl,int cr,string temp,vector<string> &ans){
+        if(cl==n&&cr==n){
+            if(validate(temp))
+            ans.push_back(temp);
             return ;
         }
-        solve(i+1,n,temp+'(',ans);
-        solve(i+1,n,temp+')',ans);
+        if(cl<n){
+            solve(n,cl+1,cr,temp+'(',ans);
+        }
+        if(cr<n){
+            solve(n,cl,cr+1,temp+')',ans);
+        }
     }
 
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
-        solve(0,n*2,"",ans);
+        solve(n,0,0,"",ans);
         return ans;
     }
 };
